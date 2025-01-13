@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit specific files (if any temporary files are generated)
+.streamlit/
+
+# Environment and package management
+env/
+venv/
+*.env
+.venv
+.Python
+
+# macOS
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Jupyter Notebook checkpoints (if any are used)
+.ipynb_checkpoints/
+
+# Ignore all hidden system files
+.*
