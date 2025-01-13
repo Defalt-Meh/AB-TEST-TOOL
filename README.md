@@ -6,13 +6,13 @@ Welcome, brave data explorer! This repository contains the **A/B Test Simulator*
 ---
 
 ## **Features**
-- 🌟 **Data Generation Model**
+-  **Data Generation Model**
     - Generate views, CTRs (Click-Through Rates), and clicks using probabilistic models.
     - Easily configure parameters like Base CTR, Uplift, and Skew.
-- 🔥 **Experiment Design**
+-  **Experiment Design**
     - Estimate sample sizes using statistical thresholds (Type I Error, Type II Error, MDE).
     - Visualize your assumptions in real-time.
-- 🛡️ **Powerful Analysis**
+-  **Powerful Analysis**
     - Compare A/A and A/B test results using various statistical tests:
         - T-tests, Mann-Whitney U test, Binomial test, and Bootstrap.
     - Visualize p-value distributions and calculate statistical power.
@@ -29,8 +29,6 @@ Welcome, brave data explorer! This repository contains the **A/B Test Simulator*
     - **Views Skew**: Adjust skewness for user views distribution.
     - **CTR Beta**: Set the Beta distribution's shape parameter.
 
-    Example Configuration Panel:  
-    ![Data Generation Panel](./images/Screenshot-1.png)
 
 2. **Experiment Design**:  
     Craft an experiment with:
@@ -39,14 +37,13 @@ Welcome, brave data explorer! This repository contains the **A/B Test Simulator*
     - **MDE (%)**: The minimum detectable effect.
 
     Interactive sliders help you fine-tune these parameters. Here's a glimpse of the design interface:  
-    ![Experiment Design Panel](./images/Screenshot-2.png)
+    ![Experiment Design Panel](./images/a.png)
 
 3. **Results Visualization**:  
     Explore the "ground truth" distributions under null (**H0**) and alternative (**H1**) hypotheses:
-    - **CTR Distribution**:  
-        ![CTR Distribution](./images/Screenshot-3.png)
-    - **Views Distribution**:  
-        ![Views Distribution](./images/Screenshot-4.png)
+    - **RESULTS**:  
+        ![CTR Distribution](./images/a.png)
+
 
 4. **A/A and A/B Analysis**:  
     - Plot p-value histograms and cumulative distribution functions.
