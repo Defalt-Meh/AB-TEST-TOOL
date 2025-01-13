@@ -42,7 +42,7 @@ Welcome, brave data explorer! This repository contains the **A/B Test Simulator*
 3. **Results Visualization**:  
     Explore the "ground truth" distributions under null (**H0**) and alternative (**H1**) hypotheses:
     - **RESULTS**:  
-        ![CTR Distribution](./images/a.png)
+        ![CTR Distribution](./images/b.png)
 
 
 4. **A/A and A/B Analysis**:  
