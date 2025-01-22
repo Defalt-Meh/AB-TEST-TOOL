@@ -58,7 +58,7 @@ To begin your journey:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/ab-test-simulator.git
-   cd ab-test-simulator
+   cd ab-test-tool
 
 2. Install Dependencies:
    ```bash
