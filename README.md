@@ -57,7 +57,7 @@ Welcome, brave data explorer! This repository contains the **A/B Test Simulator*
 To begin your journey:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/ab-test-simulator.git
+   git clone https://github.com/Defalt-Meh/AB-TEST-TOOL.git
    cd ab-test-tool
 
 2. Install Dependencies:
